@@ -40,7 +40,8 @@ function validValue(){
     data.forEach(n => {
         if (n.nama === username.value && n.password === password.value){
             // Benar
-            window.location.href = "../../Kelas/XIIMM1/index.html";
+            result.innerHTML = ``
+            window.location.href = "../../Kelas/XIIMM1/";
         } else {
             // Salah
             result.innerHTML = `
