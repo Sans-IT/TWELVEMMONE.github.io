@@ -41,7 +41,7 @@ function validValue(){
         if (n.nama === username.value && n.password === password.value){
             // Benar
             result.innerHTML = ``
-            window.location.href = "../../Kelas/XIIMM1/";
+            window.location.href = "./Kelas/XIIMM1/";
         } else {
             // Salah
             result.innerHTML = `
