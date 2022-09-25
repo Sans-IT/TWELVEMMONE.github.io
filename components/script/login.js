@@ -40,7 +40,7 @@ function validValue(){
     data.forEach(n => {
         if (n.nama === username.value && n.password === password.value){
             // Benar
-            result.innerHTML = ``
+            result.innerHTML = ``;
             window.location.href = "./TWELVEMMONE.github.io/Kelas/XIIMM1/";
         } else {
             // Salah
