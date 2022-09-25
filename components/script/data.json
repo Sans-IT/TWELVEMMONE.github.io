@@ -1,0 +1,27 @@
+[
+    {
+        "absen":1,
+        "nama": "adam",
+        "password": "ilham"
+    },
+    {
+        "absen":10,
+        "nama": "eka",
+        "password": "pegel"
+    },
+    {
+        "absen":20,
+        "nama": "farid",
+        "password": "BASOLegend"
+    },
+    {
+        "absen":25,
+        "nama": "puma",
+        "password": "brand"
+    },
+    {
+        "absen":32,
+        "nama": "steven",
+        "password": "123"
+    }
+]

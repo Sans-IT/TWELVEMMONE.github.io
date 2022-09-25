@@ -138,6 +138,10 @@ body {
     color:#ffd097 !important;
 }
 
+.dropdown-menu li a:active {
+    background:rgba(255,255,255,.2) !important;
+}
+
 /* MainCarousel */
 .mainCarousel {
     height:600px;
@@ -151,7 +155,7 @@ body {
 }
 
 /* Main Container */
-.struktur-kelas h1 {
+.struktur-kelas .text-kelas {
     font-family: 'Bungee Spice', cursive;
 }
 .struktur-kelas img {
