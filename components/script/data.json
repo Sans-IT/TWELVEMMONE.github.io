@@ -1,13 +1,28 @@
 [
     {
         "absen":1,
-        "nama": "adam",
-        "password": "ilham"
+        "nama": "andi",
+        "password": "norman"
+    },
+    {
+        "absen":2,
+        "nama": "abbas",
+        "password": "moch"
     },
     {
         "absen":10,
         "nama": "eka",
         "password": "pegel"
+    },
+    {
+        "absen":11,
+        "nama": "fikky",
+        "password": "fikkyganteng"
+    },
+    {
+        "absen":19,
+        "nama": "rapip",
+        "password": "putra"
     },
     {
         "absen":20,
@@ -22,6 +37,6 @@
     {
         "absen":32,
         "nama": "steven",
-        "password": "123"
+        "password": "jaya"
     }
 ]
